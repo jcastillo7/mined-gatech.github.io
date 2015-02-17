@@ -1,35 +1,27 @@
-<html>
-<h3>Welcome to the website for MINED Research Lab!
-<br>
-<br>
-Ahmet Cecen
-<br>
-Ali Khosravani
-<br>
-Akash Gupta
-<br>
-Alicia White
-<br>
-<a href="http://davidbrough1.github.io/">David Brought</a>
-<br>
-Mohammed Abba
-<br>
-Dipen Patel
-<br>
-Jordan Weaver
-<br>
-Noah Paulson
-<br>
-Yuksel Yabansu
-<br>
-Joshua Gomberg
-<br>
-Xinyi Gong
-<br>
-Almambet Isakov
-<br>
-David Turner
-<br>
-Anne Hanna
-</h3>
-</html>
+---
+layout: base
+---
+<div class="wrapper">
+    <header>
+        {% if site.compass.logo %}
+        <div class="logo-container">
+          <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
+        </div>
+        {% endif %}
+
+        {% if site.compass.author %}
+        <div class="author-container"><h1>{{ site.compass.author }}</h1></div>
+        {% endif %}
+
+        {% if site.compass.tagline %}
+        <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
+        {% endif %}
+    </header>
+    <main>
+      {% if site.compass.include_content %}
+      <div class="content">
+        {% include content.html %}
+      </div>
+      {% endif %}
+    </main>
+</div>
