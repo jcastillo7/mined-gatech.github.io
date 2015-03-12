@@ -10,17 +10,15 @@
 <br>
 <br>Akash Gupta, Ph.D. Student
 Alicia White, Ph.D. Student
-David Brough, Ph.D. Student
 Mohammed Abba, Ph.D. Student
 Dipen Patel, Ph.D. Student
 Jordan Weaver, Ph.D. Student
-Noah Paulson, Ph.D. Student
-Yuksel Yabansu, Ph.D. Student
-Joshua Gomberg, Ph.D. Student
-Xinyi Gong, Ph.D. Student
-Almambet Isakov, Ph.D. Student
-David Turner, Ph.D. Student
-Anne Hanna, Ph.D. Student
+Noah Paulson,Â Ph.D. Student
+Yuksel Yabansu,Â Ph.D. Student
+Joshua Gomberg,Â Ph.D. Student
+Xinyi Gong,Â Ph.D. Student
+Almambet Isakov,Â Ph.D. Student
+Anne Hanna,Â Ph.D. Student
 
 <a title="Alumni" href="https://minedlab.wordpress.com/mined/alumni/">Alumni</a>
 
