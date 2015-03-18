@@ -34,9 +34,25 @@ Check the [GitHub Pages Basics](https://help.github.com/categories/github-pages-
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ```
 ```js
-// code for coloring
+var text = "javascript style highlighting"
 ```
 ```css
-// code for coloring
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+  body {background-color:lightgrey}
+  h1   {color:blue}
+  p    {color:green}
+</style>
+</head>
+
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph.</p>
+</body>
+
+</html>
 ```
 // etc.
