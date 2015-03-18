@@ -34,7 +34,8 @@ Check the [GitHub Pages Basics](https://help.github.com/categories/github-pages-
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ```
 ```js
-var text = "javascript style highlighting"
+var t = "javascript syntax highlighting"
+alert(t);
 ```
 ```css
 <!DOCTYPE html>
