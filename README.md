@@ -29,7 +29,7 @@ Check the [GitHub Pages Basics](https://help.github.com/categories/github-pages-
 }
 ```
 ```html
-// code for coloring
+[![MGI demo by NSF](http://img.youtube.com/vi/BNsN8QkIJR0/0.jpg)](http://www.youtube.com/watch?v=BNsN8QkIJR0)
 ```
 ```js
 // code for coloring
