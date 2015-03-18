@@ -21,31 +21,11 @@ If you are planning on using a custom domain to direct to your site, modify the 
 Check the [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics/) for more information.
 
 ```json
-//import org.json.simple.JSONObject;
-  
-  JSONObject obj=new JSONObject();
-  obj.put("name","foo");
-  obj.put("num",new Integer(100));
-  obj.put("balance",new Double(1000.21));
-  obj.put("is_vip",new Boolean(true));
-  obj.put("nickname",null);
-  System.out.print(obj);
-  
-  package main
-
-import (
-    "github.com/ant0ine/go-json-rest/rest"
-    "log"
-    "net/http"
-)
-
-func main() {
-    api := rest.NewApi()
-    api.Use(rest.DefaultDevStack...)
-    api.SetApp(rest.AppSimple(func(w rest.ResponseWriter, r *rest.Request) {
-        w.WriteJson(map[string]string{"Body": "Hello World!"})
-    }))
-    log.Fatal(http.ListenAndServe(":8080", api.MakeHandler()))
+{
+    "id": 1,
+    "name": "A green door",
+    "price": 12.50,
+    "tags": ["home", "green"]
 }
 ```
 ```html
