@@ -20,6 +20,9 @@ If you are planning on using a custom domain to direct to your site, modify the 
 
 Check the [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics/) for more information.
 
+## Little bit about text/code highlighting in markdown:
+
+
 ```json
 {
     "id": 1,
@@ -64,3 +67,5 @@ print t
 </html>
 ```
 // etc.
+
+Check [Markdown CheatSheet] https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet for more info
