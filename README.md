@@ -37,6 +37,13 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 var t = "javascript syntax highlighting"
 alert(t);
 ```
+
+```python
+t = "Python syntax highlighting"
+print t
+```
+
+
 ```css
 <!DOCTYPE html>
 <html>
