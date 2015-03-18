@@ -20,8 +20,16 @@ If you are planning on using a custom domain to direct to your site, modify the 
 
 Check the [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics/) for more information.
 
+```json
+// code for coloring
 ```
-var s = "JavaScript syntax highlighting";
-alert(s);
+```html
+// code for coloring
 ```
- 
+```js
+// code for coloring
+```
+```css
+// code for coloring
+```
+// etc.
