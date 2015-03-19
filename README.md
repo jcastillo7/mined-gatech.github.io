@@ -20,7 +20,7 @@ If you are planning on using a custom domain to direct to your site, modify the 
 
 Check the [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics/) for more information.
 
-## Little bit about text/code highlighting in markdown:
+## Little about text/code highlighting in markdown:
 
 
 ```json
