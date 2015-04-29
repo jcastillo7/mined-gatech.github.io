@@ -1,23 +1,4 @@
 
-
-<div class="wrapper">
-    <header>
-        {% if site.compass.logo %}
-        <div class="logo-container">
-          <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
-        </div>
-        {% endif %}
-
-        {% if site.compass.author %}
-        <div class="author-container"><h1>{{ site.compass.author }}</h1></div>
-        {% endif %}
-
-        {% if site.compass.tagline %}
-        <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
-        {% endif %}
-    </header>
-    <main>
-    
        <h2>Contact Us</h2>
       <br>
       Bunger Henry, Room 192
@@ -31,13 +12,3 @@
       <br>
       <a href="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=bunger+henry+georgia+tech&amp;aq=&amp;sll=33.767713,-84.420604&amp;sspn=0.419541,0.937271&amp;vpsrc=3&amp;ie=UTF8&amp;hq=&amp;hnear=Bunger-Henry+Bldg,+Atlanta,+Fulton,+Georgia+30313&amp;t=m&amp;z=17&amp;iwloc=A" target="_blank">Get directions</a>
     
-      {% if site.compass.include_content %}
-      <div class="content">
-        {% include content.html %}
-      </div>
-      {% endif %}
-    </main>
-</div>
-
-    
-  
