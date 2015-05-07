@@ -1,6 +1,8 @@
 ---
 layout: bio
 
+category: members
+
 author:
   name: Ahmet Cecen
   role: Data Scientist / Material Informatics 
