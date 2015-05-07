@@ -87,7 +87,7 @@ span + .entry-title {
 /* page/post meta content (date, author, etc) */
 
 .entry-meta {
-	@include span-columns(2.5);
+	@include span-columns(5);
 	text-transform: uppercase;
 	@include font-size(14);
 	a {
