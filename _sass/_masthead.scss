@@ -30,18 +30,15 @@
 
 .site-logo {
   img {
-    width: 100px;
     height: 100px;
     @include animation-duration(1s);
       @include animation-delay(.05s);
       
     @include media($medium) {
-      width: 150px;
       height: 150px;
       
     }
     @include media($large) {
-      width: 150px;
       height: 150px;
       
     }
