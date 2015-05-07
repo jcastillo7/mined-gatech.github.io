@@ -24,9 +24,8 @@ Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering
 * Big Data Analytics
 * Workflow Automation
 
-**Research Skills**
-
 **Work Environment:** Mainly MATLAB, R and MAPLE
+
 **Areas of Experience:** *Spatial Correlations* , *Machine Learning*, *Image/Signal Processing*, Matrix Linear Algebra, Modelling and Simulation, Parallelization/Sequentialization, Graph Analysis, Web Development & Automation
 
 **Current Projects**
