@@ -34,12 +34,14 @@ Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering
 * Project URL or Project Title (optional)
 * Project URL or Project Title (optional)
 
-Up to 3 points recent publications
+**Recent Publications**
 
 * Citation (optional) maybe link
 * Citation (optional)
 * Citation (optional)
 
-- E-mail: ahmetcecen@gatech.edu
-- Cell: +12675864505
-- Skype: +16787015869 (ahmetcecen)
+**Contact Info**
+
+* E-mail: ahmetcecen@gatech.edu
+* Cell: +12675864505
+* Skype: +16787015869 (ahmetcecen)
