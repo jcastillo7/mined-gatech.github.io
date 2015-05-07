@@ -15,7 +15,7 @@ author:
 
 Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology.  He earned a bachelor’s degree in Mechanical Engineering at Drexel University. Ahmet has been doing research in the fields of computational materials science and materials informatics for the past 6 years, throughout his undergraduate and graduate studies. His current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science.
 
-*Research Interests*
+**Research Interests**
 
 * Materials Informatics
 * Computational Materials Science
@@ -23,12 +23,12 @@ Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering
 * Big Data Analytics
 * Workflow Automation
 
-*Research Skills*
+**Research Skills**
 
-*Work Environment:* Mainly MATLAB, R and MAPLE
-*Areas of Experience:* **Spatial Correlations** , **Machine Learning**, **Image/Signal Processing**, Matrix Linear Algebra, Modelling and Simulation, Parallelization/Sequentialization, Graph Analysis, Web Development & Automation
+**Work Environment:** Mainly MATLAB, R and MAPLE
+**Areas of Experience:** *Spatial Correlations* , *Machine Learning*, *Image/Signal Processing*, Matrix Linear Algebra, Modelling and Simulation, Parallelization/Sequentialization, Graph Analysis, Web Development & Automation
 
-*Current Projects*
+**Current Projects**
 
 * Project URL or Project Title
 * Project URL or Project Title (optional)
@@ -40,6 +40,6 @@ Up to 3 points recent publications
 * Citation (optional)
 * Citation (optional)
 
-E-mail: ahmetcecen@gatech.edu
-Cell: +12675864505
-Skype: +16787015869 (ahmetcecen)
+- E-mail: ahmetcecen@gatech.edu
+- Cell: +12675864505
+- Skype: +16787015869 (ahmetcecen)
