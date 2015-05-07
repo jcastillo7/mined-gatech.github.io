@@ -21,4 +21,5 @@ search_omit: false
 		</tr>
 		{% endif %}
 	{% endfor %}
+	</table>
 </ul>
