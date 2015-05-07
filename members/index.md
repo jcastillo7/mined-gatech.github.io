@@ -10,7 +10,7 @@ search_omit: false
 		{% if post.categories contains 'members' %}
 			<li>
 				<article>
-					<a href="{{ site.url }}{{ post.url }}">{{ post.name }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.role %} <span class="excerpt">{{ post.role }}</span>{% endif %}</a>
+					<a href="{{ site.url }}{{ post.url }}">{{ post.author.name }} <span class="entry-date">Updated: <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.author.role %} <span class="excerpt">{{ post.role }}</span>{% endif %}</a>
 				</article>
 			</li>
 		{% endif %}
