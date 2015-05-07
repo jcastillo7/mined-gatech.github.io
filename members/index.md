@@ -13,8 +13,8 @@ search_omit: false
 		<td valign="middle">
 			<li>
 				{% if post.author.image %}<img src="{{ post.author.image }}" style="float: left; height: 125px; border-radius: 50%; border: 25px solid transparent">{% endif %}
-					<article style="margin:50px; padding:0">					
-						<a href="{{ site.url }}{{ post.url }}">{{ post.author.name }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.author.role %} <span class="excerpt">{{ post.author.role }}</span>{% endif %}</a>
+					<article style="margin:40px; padding:0">					
+						<a href="{{ site.url }}{{ post.url }}"><b>{{ post.author.name }}</b><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.author.role %} <span class="excerpt">{{ post.author.role }}</span>{% endif %}</a>
 					</article>
 			</li>
 		</td>
