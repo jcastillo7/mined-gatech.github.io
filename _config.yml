@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: MINED Group @ Georgia Tech
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: Materials INnovation for Engineering Design
 logo: site-logo.png
-url: //mmistakes.github.io/so-simple-theme
+url: //ahmetcecen.github.io/mined-gatech.github.io/
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-markdown:    kramdown
+markdown:   kramdown
 highlighter: pygments
 sass:
   sass_dir: _sass
