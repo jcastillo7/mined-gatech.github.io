@@ -24,13 +24,13 @@
         {% endif %}
       </header>
       <footer class="entry-meta">
-        <img src="{{ site.url }}{{ post.author.image }}" class="bio-photo" alt="{{ post.author.name }} bio photo"></a>
+        <img src="{{ post.author.image }}" class="bio-photo" alt="{{ post.author.name }} bio photo"></a>
         <span class="author vcard">By <span class="fn">{{ post.author.name }}</span></span>
         <span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ page.date | date: "%B %d, %Y" }}</time></span>
         {% if page.modified %}<span class="entry-date date modified"><time datetime="{{ page.modified }}"><i class="fa fa-pencil"></i> {{ page.modified | date: "%B %d, %Y" }}</time></span>{% endif %}
         
-		<span class="social-share-googleplus"><a href="https://github.com/{{ post.author.github }}" title="Github">Github</a></span>
-		<span class="social-share-googleplus"><a href="https://plus.google.com/{{ post.author.gplus }}" title="Google Plus">Google Plus</a></span>
+		<span class="social-share-googleplus"><a href="https://github.com/{{ post.author.github }}" title="Github"><img src="/mined-gatech.github.io/images/icons/github-icon.png" style="height:20px">Github</a></span>
+		<span class="social-share-googleplus"><a href="https://plus.google.com/{{ post.author.gplus }}" title="Google Plus"><img src="/mined-gatech.github.io/images/icons/gplus-icon.png" style="height:20px">Google Plus</a></span>
 		<span class="social-share-googleplus"><a href="https://www.linkedin.com/pub/{{ post.author.linkedin }}" title="LinkedIn"><img src="/mined-gatech.github.io/images/icons/linkedin-icon.png" style="height:20px">LinkedIn</a></span>
 		
       </footer>
