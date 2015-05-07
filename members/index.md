@@ -8,9 +8,9 @@ search_omit: false
 <ul class="post-list">
 	{% for post in site.posts %} 
 		{% if post.categories contains 'members' %}
-			<li>
+			<li valign="middle">
 				{% if post.author.image %}<img src="{{ post.author.image }}" style="float: left; height: 125px; border-radius: 50%; border: 25px solid transparent">{% endif %}
-					<article valign="middle">					
+					<article>					
 						<a href="{{ site.url }}{{ post.url }}">{{ post.author.name }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.author.role %} <span class="excerpt">{{ post.author.role }}</span>{% endif %}</a>
 					</article>
 			</li>
