@@ -1,19 +1,19 @@
 # Site navigation links
 
 - title: About
-  url: /about
+  url: /404
 
 - title: Members
   url: /members
 
 - title: Projects
-  url: /projects
+  url: /404
   
 - title: Tools
-  url: /tools
+  url: /404
   
 - title: MATIN
   url: http://ahmetcecen.github.io/materialsinnovation.github.io/
   
 - title: Contact
-  url: /contact
+  url: /404
