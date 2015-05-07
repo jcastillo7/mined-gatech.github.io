@@ -24,14 +24,14 @@
         {% endif %}
       </header>
       <footer class="entry-meta">
-        <img src="{{ author.image }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
-        <span class="author vcard">By <span class="fn">{{ author.name }}</span></span>
+        <img src="{{ post.author.image }}" class="bio-photo" alt="{{ post.author.name }} bio photo"></a>
+        <span class="author vcard">By <span class="fn">{{ post.author.name }}</span></span>
         <span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ page.date | date: "%B %d, %Y" }}</time></span>
         {% if page.modified %}<span class="entry-date date modified"><time datetime="{{ page.modified }}"><i class="fa fa-pencil"></i> {{ page.modified | date: "%B %d, %Y" }}</time></span>{% endif %}
         
-		<span class="social-share-googleplus"><a href="https://github.com/{{ author.github }}" title="Github"><i class="fa fa-twitter-square"></i>Github</a></span>
-		<span class="social-share-googleplus"><a href="https://plus.google.com/{{ author.gplus }}" title="Google Plus"><i class="fa fa-twitter-square"></i>Google +</a></span>
-		<span class="social-share-googleplus"><a href="https://www.linkedin.com/pub/{{ author.linkedin }}" title="LinkedIn"><i class="fa fa-twitter-square"></i>LinkedIn</a></span>
+		<span class="social-share-googleplus"><a href="https://github.com/{{ post.author.github }}" title="Github">Github</a></span>
+		<span class="social-share-googleplus"><a href="https://plus.google.com/{{ post.author.gplus }}" title="Google Plus">Google Plus</a></span>
+		<span class="social-share-googleplus"><a href="https://www.linkedin.com/pub/{{ post.author.linkedin }}" title="LinkedIn"><img src="/mined-gatech.github.io/images/icons/linkedin-icon.png" style="height:20px">LinkedIn</a></span>
 		
       </footer>
       <div class="entry-content">
