@@ -1,7 +1,7 @@
 ---
 layout: bio
 
-category: members
+categories: members
 
 author:
   name: Ahmet Cecen
