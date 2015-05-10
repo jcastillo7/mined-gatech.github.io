@@ -52,8 +52,6 @@ search_omit: false
 NIST
 Lockheed Martin ATL
 
-Siemens
-Pratt & Whitney
 
 
 <table style="border-collapse:separate;border-spacing: 25px">
@@ -111,12 +109,12 @@ Pratt & Whitney
 	
 	<tr>
 		<td valign="top">
-			<p align="center"><a href="http://www.pw.utc.com/Home"><img src="/mined-gatech.github.io/images/collaborators/pw-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="http://www.pw.utc.com/Home"><img src="/mined-gatech.github.io/images/collaborators/pw-logo.png" style="height:120px"></a></p>
 			<p align="center"><a href="https://www.linkedin.com/pub/vasisht-venkatesh/0/553/856">Dr. Vasisht Venkatesh</a></p>	
 			<p align="center"><a href="https://www.linkedin.com/pub/dongsheng-li/14/942/b4">Dr. Dongsheng Li</a></p>	
 		</td>
 		<td valign="top">
-			<p align="center"><a href="http://www.siemens.com/innovation/en/technology-focus/materials.php"><img src="/mined-gatech.github.io/images/collaborators/Siemens-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="http://www.siemens.com/innovation/en/technology-focus/materials.php"><img src="/mined-gatech.github.io/images/collaborators/Siemens-logo.png" style="height:120px"></a></p>
 			<p align="center"><a href="https://www.linkedin.com/pub/sudhir-rajagopalan/26/a9a/12b">Dr. Sudhir Rajagopalan</a></p>	
 		</td>
 	</tr>
