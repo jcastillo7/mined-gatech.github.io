@@ -48,12 +48,6 @@ search_omit: false
 
 <h1 align="center"><u>External</u></h1>
 
-
-NIST
-Lockheed Martin ATL
-
-
-
 <table style="border-collapse:separate;border-spacing: 25px">
     <col style="width:50%">
     <col style="width:50%">
@@ -92,21 +86,20 @@ Lockheed Martin ATL
 			<p align="center"><a href="https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php">Dr. Brita Nestler</a></p>	
 		</td>
 	</tr>
-	
-	
 	<tr>
 		<td valign="top">
-			<p align="center"><a href="http://www.mpie.de/2281/en"><img src="/mined-gatech.github.io/images/collaborators/MPIE-logo.png" style="height:75px"></a></p>
-			<p align="center"><a href="http://www.dierk-raabe.com/">Dr. Dierk Raabe</a></p>	
-			<p align="center"><a href="http://www.mpie.de/2973988/employee_page?c=3079071&employee_id=40045">Dr. Cem Tasan</a></p>	
+			<p align="center"><a href="http://www.nist.gov/"><img src="/mined-gatech.github.io/images/collaborators/nist-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="http://www.nist.gov/mml/msed/thermodynamics_kinetics/chandler_becker.cfm">Dr. Chandler Becker</a></p>	
+			<p align="center"><a href="http://www.nist.gov/mml/mmsd/nanomechanical_properties/zachary-trautt.cfm">Dr. Zachary Trautt</a></p>	
+			<p align="center"><a href="http://www.nist.gov/mml/james-warren.cfm">Dr. James Warren</a></p>	
+			<p align="center"><a href="http://matinformatics.engr.wisc.edu/?page_id=408">Dr. Carrie Campbell</a></p>	
 		</td>
 		<td valign="top">
-			<p align="center"><a href="http://www.kit.edu/english/"><img src="/mined-gatech.github.io/images/collaborators/kit-logo.png" style="height:75px"></a></p>
-			<p align="center"><a href="https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php">Dr. Brita Nestler</a></p>	
+			<p align="center"><a href="http://www.lockheedmartin.com/us/atl.html"><img src="/mined-gatech.github.io/images/collaborators/lm-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="https://www.linkedin.com/pub/jason-poleski/18/519/3b3">Dr. Jason Poleski</a></p>	
+			<p align="center"><a href="https://www.linkedin.com/in/kreinm2">Dr. Michael Krein</a></p>	
 		</td>
 	</tr>
-	
-	
 	<tr>
 		<td valign="top">
 			<p align="center"><a href="http://www.pw.utc.com/Home"><img src="/mined-gatech.github.io/images/collaborators/pw-logo.png" style="height:120px"></a></p>
@@ -118,10 +111,6 @@ Lockheed Martin ATL
 			<p align="center"><a href="https://www.linkedin.com/pub/sudhir-rajagopalan/26/a9a/12b">Dr. Sudhir Rajagopalan</a></p>	
 		</td>
 	</tr>
-	
-	
-	
-	
 	<tr>
 		<td valign="top">
 			<p align="center"><a href="http://www.ensam.eu/en/"><img src="/mined-gatech.github.io/images/collaborators/ENSAM-logo.png" style="height:75px"></a></p>
