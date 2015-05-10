@@ -48,11 +48,6 @@ search_omit: false
 
 <h1 align="center"><u>External</u></h1>
 
-Northwestern
-CMU
-
-UNT
-Iowa State University
 
 MPIE
 Karlsruhe Institute of Technology
@@ -91,6 +86,17 @@ ENSAM
 		<td valign="top">
 			<p align="center"><a href="http://www.iastate.edu/"><img src="/mined-gatech.github.io/images/collaborators/ISU-logo.png" style="height:75px"></a></p>
 			<p align="center"><a href="http://www.mse.iastate.edu/mse-directory/faculty/?user_page=lesar">Dr. Richard LeSar</a></p>	
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<p align="center"><a href="http://www.mpie.de/2281/en"><img src="/mined-gatech.github.io/images/collaborators/MPIE-logo.PNG" style="height:75px"></a></p>
+			<p align="center"><a href="http://www.dierk-raabe.com/">Dr. Dierk Raabe</a></p>	
+			<p align="center"><a href="http://www.mpie.de/2973988/employee_page?c=3079071&employee_id=40045">Dr. Cem Tasan</a></p>	
+		</td>
+		<td valign="top">
+			<p align="center"><a href="http://www.kit.edu/english/"><img src="/mined-gatech.github.io/images/collaborators/kit-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php">Dr. Brita Nestler</a></p>	
 		</td>
 	</tr>
 </table>
