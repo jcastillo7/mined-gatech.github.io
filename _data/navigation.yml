@@ -6,10 +6,16 @@
 - title: Members
   url: /members
 
+- title: Calendar
+  url: /404
+  
 - title: Projects
   url: /404
   
 - title: Tools
+  url: /404
+  
+- title: Facilities
   url: /404
   
 - title: Collaborators
@@ -17,6 +23,9 @@
   
 - title: MATIN
   url: http://ahmetcecen.github.io/materialsinnovation.github.io/
+  
+- title: Alumni
+  url: /404
   
 - title: Contact
   url: /404
