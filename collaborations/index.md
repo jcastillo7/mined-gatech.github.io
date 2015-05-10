@@ -71,7 +71,7 @@ ENSAM
     <col style="width:50%">
 	<tr>
 		<td valign="top">
-			<p align="center"><a href="http://www.cmu.edu/"><img src="/mined-gatech.github.io/images/collaborators/CMU-logo.pmg" style="height:75px"></a></p>
+			<p align="center"><a href="http://www.cmu.edu/"><img src="/mined-gatech.github.io/images/collaborators/CMU-logo.png" style="height:75px"></a></p>
 			<p align="center"><a href="http://www.materials.cmu.edu/degraef/">Dr. Marc DeGraef</a></p>
 			<p align="center"><a href="http://www.materials.cmu.edu/people/rollett.html">Dr. Antony Rollett</a></p>
 		</td>
