@@ -76,7 +76,7 @@ ENSAM
 			<p align="center"><a href="http://www.materials.cmu.edu/people/rollett.html">Dr. Antony Rollett</a></p>
 		</td>
 		<td valign="top">
-			<p align="center"><a href="http://www.northwestern.edu/"><img src="/mined-gatech.github.io/images/collaborators/NWU-logo.PNG" style="height:100px"></a></p>
+			<p align="center"><a href="http://www.northwestern.edu/"><img src="/mined-gatech.github.io/images/collaborators/NWU-logo.PNG" style="height:120px"></a></p>
 			<p align="center"><a href="http://users.eecs.northwestern.edu/~ankitag/">Dr. Ankit Agrawal</a></p>
 			<p align="center"><a href="http://users.eecs.northwestern.edu/~choudhar/">Dr. Alok Chaudhary</a></p>
 			<p align="center"><a href="http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/voorhees-peter.html">Dr. Peter Voorhees</a></p>
