@@ -96,4 +96,45 @@ ENSAM
 			<p align="center"><a href="https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php">Dr. Brita Nestler</a></p>	
 		</td>
 	</tr>
+	
+	
+	<tr>
+		<td valign="top">
+			<p align="center"><a href="http://www.mpie.de/2281/en"><img src="/mined-gatech.github.io/images/collaborators/MPIE-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="http://www.dierk-raabe.com/">Dr. Dierk Raabe</a></p>	
+			<p align="center"><a href="http://www.mpie.de/2973988/employee_page?c=3079071&employee_id=40045">Dr. Cem Tasan</a></p>	
+		</td>
+		<td valign="top">
+			<p align="center"><a href="http://www.kit.edu/english/"><img src="/mined-gatech.github.io/images/collaborators/kit-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php">Dr. Brita Nestler</a></p>	
+		</td>
+	</tr>
+	
+	
+	<tr>
+		<td valign="top">
+			<p align="center"><a href="http://www.mpie.de/2281/en"><img src="/mined-gatech.github.io/images/collaborators/MPIE-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="http://www.dierk-raabe.com/">Dr. Dierk Raabe</a></p>	
+			<p align="center"><a href="http://www.mpie.de/2973988/employee_page?c=3079071&employee_id=40045">Dr. Cem Tasan</a></p>	
+		</td>
+		<td valign="top">
+			<p align="center"><a href="http://www.kit.edu/english/"><img src="/mined-gatech.github.io/images/collaborators/kit-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php">Dr. Brita Nestler</a></p>	
+		</td>
+	</tr>
+	
+	
+	
+	
+	<tr>
+		<td valign="top">
+			<p align="center"><a href="http://www.ensam.eu/en/"><img src="/mined-gatech.github.io/images/collaborators/ENSAM-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="http://www.researchgate.net/profile/Farid_Abed-Meraim">Dr. Farid Abed-Meraim</a></p>	
+			<p align="center"><a href="http://www.lem3.fr/annuaire.php?page=fiche&nom=Ben%20Bettaieb">Dr. Mohamed Ben Bettaieb</a></p>
+		</td>
+		<td valign="top">
+			<p align="center"><a href="http://welcome.univ-lorraine.fr/en"><img src="/mined-gatech.github.io/images/collaborators/UDL-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="http://www.lem3.fr/annuaire.php?page=fiche&nom=TOTH">Dr. Laszlo Toth</a></p>	
+		</td>
+	</tr>
 </table>
