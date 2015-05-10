@@ -5,18 +5,19 @@ excerpt: "The MINED Group @ Georgia Tech"
 search_omit: false
 ---
 
+
 <h1 align="center"><u>Collaborations in Georgia Tech</u></h1>
 
-<table>
+<table  style="border-collapse:separate;border-spacing: 10px">
 	<tr>
 		<td valign="top">
 			<a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG"></a>
 			<a href="http://www.mse.gatech.edu/faculty/mcdowell">Dr. David McDowell</a>
 		</td>
 		<td>
-			<a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG" width="500"></a>
-			<p><a href="http://www.me.gatech.edu/faculty/cherkaoui">Dr. Mohammed Cherkaoui</a></p>
-			<p><a href="http://www.me.gatech.edu/faculty/cherkaoui">Dr. Antonia Antoniou</a>/p>
+			<a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG"></a>
+			<p align="center"><a href="http://www.me.gatech.edu/faculty/cherkaoui">Dr. Mohammed Cherkaoui</a></p>
+			<p align="center"><a href="http://www.me.gatech.edu/faculty/cherkaoui">Dr. Antonia Antoniou</a></p>
 		</td>
 	</tr>
 	<tr>
