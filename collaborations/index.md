@@ -5,7 +5,7 @@ excerpt: "The MINED Group @ Georgia Tech"
 search_omit: false
 ---
 
-<h1><u>Collaborations in Georgia Tech</u></h1>
+<h1 align="center"><u>Collaborations in Georgia Tech</u></h1>
 
 <table>
 	<tr>
@@ -34,13 +34,13 @@ search_omit: false
 		</td>
 	</tr>
 	<tr>
-		<td width="500">
+		<td width="500px">
 			<a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG"></a>
 			<a href="http://www.mse.gatech.edu/faculty/mcdowell">Dr. Kyriaki Kalaitzidou</a>
 			<a href="http://www.mse.gatech.edu/faculty/mcdowell">Dr. Hamid Garmestani</a>
 			<a href="http://www.mse.gatech.edu/faculty/mcdowell">Dr. Naresh Thadhani</a>
 		</td>
-		<td width="500">
+		<td width="500px">
 			<a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG"></a>
 			<a href="http://www.me.gatech.edu/faculty/cherkaoui">Dr. Mohammed Cherkaoui</a>
 		</td>
