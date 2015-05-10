@@ -9,14 +9,14 @@ search_omit: false
 
 <table>
 	<tr>
-		<td>
+		<td valign="top">
 			<a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG"></a>
 			<a href="http://www.mse.gatech.edu/faculty/mcdowell">Dr. David McDowell</a>
 		</td>
 		<td>
 			<a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG" width="500"></a>
-			<a href="http://www.me.gatech.edu/faculty/cherkaoui">Dr. Mohammed Cherkaoui</a>
-			<a href="http://www.me.gatech.edu/faculty/cherkaoui">Dr. Antonia Antoniou</a>
+			<p><a href="http://www.me.gatech.edu/faculty/cherkaoui">Dr. Mohammed Cherkaoui</a></p>
+			<p><a href="http://www.me.gatech.edu/faculty/cherkaoui">Dr. Antonia Antoniou</a>/p>
 		</td>
 	</tr>
 	<tr>
