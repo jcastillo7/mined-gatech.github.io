@@ -15,7 +15,7 @@ search_omit: false
 			<p align="center"><a href="http://www.mse.gatech.edu/faculty/mcdowell">Dr. David McDowell</a></p>
 		</td>
 		<td valign="top">
-			<a href="http://www.me.gatech.edu/"><img src="/mined-gatech.github.io/images/collaborators/ME-logo.PNG" style="max-height:75px"></a>
+			<a href="http://www.me.gatech.edu/"><img src="/mined-gatech.github.io/images/collaborators/ME-logo.PNG" style="height:auto; max-height:75px"></a>
 			<p align="center"><a href="http://www.me.gatech.edu/faculty/cherkaoui">Dr. Mohammed Cherkaoui</a></p>
 			<p align="center"><a href="http://www.me.gatech.edu/faculty/antoniou">Dr. Antonia Antoniou</a></p>
 		</td>
