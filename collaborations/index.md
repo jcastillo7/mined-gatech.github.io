@@ -38,7 +38,7 @@ search_omit: false
 	</tr>
 	<tr>
 		<td valign="top" colspan="2">
-			<p align="center"><a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG" style="height:75px"></a></p>
+			<p align="center"><a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/MSE-logo.PNG" style="height:75px"></a></p>
 			<p align="center"><a href="http://www.mse.gatech.edu/faculty/garmestani">Dr. Hamid Garmestani</a></p>
 			<p align="center"><a href="http://www.mse.gatech.edu/faculty/thadhani">Dr. Naresh Thadhani</a></p>
 			<p align="center"><a href="http://www.chbe.gatech.edu/faculty/kumar">Dr. Satish Kumar</a></p>
