@@ -27,3 +27,41 @@ search_omit: false
 *	Dr. Ebrahim Shaji, “Influence of Cold Work and Aging on Fracture Toughness and Ductility of MP35N”, Ph.D., Materials Engineering, 1998.
 *	Dr. Ehab El-Danaf, “Large Deformation Stress-Strain Response in Low Stacking Fault Energy FCC Metals”, Ph.D., Materials Engineering, 1998. 
 *	Dr. Abdel Abusafieh, “Development of a New Class of Self-Anchoring Swelling-Type Implants”, Ph.D., Materials Engineering, 1996. Secured the first prize in the international SAMPE student paper competition, 1997, and the second prize in the TMS International Student Paper competition, 1997. 
+*	Dr. Christopher Hovanec, “Solute Enhanced Strain Hardening of Aluminum Alloys to Achieve Improved Combinations of Strength and Toughness”, Ph.D. Materials Engineering, 2011. Harris Foundation Scholarship, 2003-2005; GAANN Fellow, 2005, 2007; Koerner Fellowship, 2006.
+*	Dr. Sandip Basu, “Kinking deformation and its effects on the nano-mechanical behavior of hexagonal crystals”. Ph.D. Materials Engineering, 2008. Second Place in Best Poster Competition, Engineering Ceramics Division, The American Ceramic Society, 2006.
+*	Dr. Aiguo Zhou, “Kinking nonlinear elastic solids: theory and experiments”, Ph.D. Materials Engineering, 2008.
+*	Dr. Dejan Stojakovich, “Microstructure Evolution in Deformed and Recrystallized Electrical Steel”, Ph.D. Materials Engineering, 2008. Dragomir Nicolitch Charitable Trust Scholarship, 2005
+*	Dr. Tiejun Zhen, “Compressive behavior of kinking nonlinear elastic solids - Ti3SiC2, graphite, mica and BN”, Ph.D., Materials Engineering, 2004.
+*	Dr. Anand Murugaiah, “Nanoindentations in Kinking Nonlinear Elastic Solids”, Ph.D., Materials Engineering, 2004.
+*	Dr. Gina Gualtieri, “Biological and Mechanical Interface Characteristics Between a New Swelling Copolymeric Material and Bone”, Ph.D., Biomedical Engineering, 1998.
+*	Dr. Sundararaman Narayanan, “Stress Determination in Silicon Wafers and a Micromechanical Study of Compression Failure in Graphite Reinforced Epoxy Using Micro-Raman Spectroscopy”, Ph.D., Materials Engineering, 1998.
+*	Dr. Sirous Asgari, “Structure and Strain Hardening of Low Stacking Fault Energy FCC Alloys at Large Strains”, Ph.D., Materials Engineering, 1997.
+*	Dr. Tamer El-Raghy, “Synthesis and Characterization of Ti3SiC2”, Ph.D., Materials Engineering, 1997.
+*	Dr. Dmitri Brodkin, “Processing-Structure-Properties Relations in Titanium Carbide-Titanium Boride Composites Fabricated by Transient Plastic Phase Processing”, Ph.D., Materials Engineering, 1996.
+
+<h1 align="center"><u>MS Students</u></h1>
+
+*	Ms. Alka Basnet, “Classification of Bone Microstructures Using PCA and 2-Point Statistics”, M.S., Mechanical Engineering, 2012.
+*	Mr. Dan Illson, “Development of a Processing Network for Process Design Solutions”, M.S., Electrical and Computer Engineering, 2007.
+*	Mr. David Steinmetz, “Microstructure-Property Relations in Polystyrene-Clay Nanocomposites”, M.S., Materials Engineering, 2007.
+*	Ms. Melanie Patel, “Investigation of Mouse Femoral Bone Using Raman Spectroscopy
+and Nanoindentation”, M.S., Materials Engineering, 2006.
+*	Mr. Naveen Naidu, “A Hybrid Metal-Polymer Intravascular Stent”, M.S., Materials Engineering, 2000.
+*	Mr. Srinivas Balla, “Experimental and Numerical Investigation of Ultra High Molecular Weight Polyethylene(UHMWPE) wear in Total Hip Arthoplasty (THR)”, M.S., Materials Engineering, 1999. 
+*	Mr. Parvez Ahmad, “A Numerical Investigation of Swelling Type Hip Implants”, M.S., Materials Engineering, 1999. 
+*	Mr. Yusuf Khan, “A Novel Intravascular Stent”, M.S., Biomedical Engineering, 1999. 
+*	Mr. Venugopal Bachu, “On the Accuracy of the Crystal Plasticity Model Predictions by the Finite Element Technique for FCC Polycrystals”, M.S., Materials Engineering, 1998. 
+*	Ms. Binu Jacob, “Evaluation of Self-Anchoring Bone Implants in Dynamic Loading”, M.S., Materials Engineering, 1998. 
+*	Ms. Anita Vemuganti, “Mechanical Evaluation of Bone-Implant Interface of a New Polyacrylic-Based Composite Material for Orthopedic Applications”, M.S., Biomedical Engineering, 1996. 
+*	Mr. Ramu Arunachalam, “Macroscopic and Microscopic Aspects of Strain Hardening in -Brass”, M.S., Materials Engineering, 1995. 
+*	Mr. Eric Franco, “Finite Element Simulation of the Micromechanical Behavior of Three-Dimensionally Braided Composite Materials”, M.S., Materials Engineering, 1995. 
+*	Mr. Vinodh Swaminathan, “Reactive Consolidation of NiAl Using Self-Propagating High Temperature Synthesis”, M.S., Materials Engineering, 1995. 
+*	Mr. Ryan Vandermeulen, “The Influence of Deformation History and Texture on the Hall-Petch Relationship”, M.S., Materials Engineering, 2007.
+*	Mr. Anthony Coratolo, “Characterization of La-Cr-O Thin Films for Use as Protective Coatings for Cr Containing Alloy Interconnects in Solid Oxide Fuel Cells”, M.S., Materials Engineering, 2006. ASM International Joseph J. Weisser Memorial Scholarship, 2005.
+*	Mr. Milan Ivosevic, “Development of Thermally Sprayed Functionally Graded Coatings for Polymer Matrix Composites”, M.S., Materials Engineering, 2003.
+*	Mr. Anthony J. Rozanski, “Determination of the Reaction Paths and Liquid Phase Dependence of the Ni-Al SHS Reaction”, M.S., Materials Engineering, 1999.
+*	Mr. Jian Guo, “In-Vitro Mechanical Design and Testing of a New Swelling Type Implant for Suture Anchor Application”, M.S., Mechanical Engineering, 1998.
+*	Ms. Rakhee Jain, “Effect of Frequency of Loading on Damage in Ultra High Molecular Weight Polyethylene”, M.S., Biomedical Engineering, 1996.
+*	Mr. Tim Hussey, “Production of Nickel Aluminides via Vacuum Plasma Spraying with Reactive Synthesis”, M.S., Materials Engineering, 1995.
+*	Mr. Ebrahim Shaji, “Mechanical Properties and Recrystallization of MP35N Alloy”, M.S., Materials Engineering, 1995.
+
