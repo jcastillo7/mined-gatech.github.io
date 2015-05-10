@@ -10,7 +10,7 @@ search_omit: false
 <table>
 	<tr>
 		<td>
-			<a href="http://materials.gatech.edu"><img src=/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG"></a>
+			<a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG"></a>
 			<a href="http://www.mse.gatech.edu/faculty/mcdowell">Dr. David McDowell</a>
 		</td>
 		<td>
@@ -34,13 +34,13 @@ search_omit: false
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td width="500">
 			<a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG"></a>
 			<a href="http://www.mse.gatech.edu/faculty/mcdowell">Dr. Kyriaki Kalaitzidou</a>
 			<a href="http://www.mse.gatech.edu/faculty/mcdowell">Dr. Hamid Garmestani</a>
 			<a href="http://www.mse.gatech.edu/faculty/mcdowell">Dr. Naresh Thadhani</a>
 		</td>
-		<td>
+		<td width="500">
 			<a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG"></a>
 			<a href="http://www.me.gatech.edu/faculty/cherkaoui">Dr. Mohammed Cherkaoui</a>
 		</td>
