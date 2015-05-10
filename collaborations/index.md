@@ -55,8 +55,6 @@ Lockheed Martin ATL
 Siemens
 Pratt & Whitney
 
-University of Lorraine
-ENSAM
 
 <table style="border-collapse:separate;border-spacing: 25px">
     <col style="width:50%">
@@ -113,13 +111,13 @@ ENSAM
 	
 	<tr>
 		<td valign="top">
-			<p align="center"><a href="http://www.mpie.de/2281/en"><img src="/mined-gatech.github.io/images/collaborators/MPIE-logo.png" style="height:75px"></a></p>
-			<p align="center"><a href="http://www.dierk-raabe.com/">Dr. Dierk Raabe</a></p>	
-			<p align="center"><a href="http://www.mpie.de/2973988/employee_page?c=3079071&employee_id=40045">Dr. Cem Tasan</a></p>	
+			<p align="center"><a href="http://www.pw.utc.com/Home"><img src="/mined-gatech.github.io/images/collaborators/pw-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="https://www.linkedin.com/pub/vasisht-venkatesh/0/553/856">Dr. Vasisht Venkatesh</a></p>	
+			<p align="center"><a href="https://www.linkedin.com/pub/dongsheng-li/14/942/b4">Dr. Dongsheng Li</a></p>	
 		</td>
 		<td valign="top">
-			<p align="center"><a href="http://www.kit.edu/english/"><img src="/mined-gatech.github.io/images/collaborators/kit-logo.png" style="height:75px"></a></p>
-			<p align="center"><a href="https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php">Dr. Brita Nestler</a></p>	
+			<p align="center"><a href="http://www.siemens.com/innovation/en/technology-focus/materials.php"><img src="/mined-gatech.github.io/images/collaborators/Siemens-logo.png" style="height:75px"></a></p>
+			<p align="center"><a href="https://www.linkedin.com/pub/sudhir-rajagopalan/26/a9a/12b">Dr. Sudhir Rajagopalan</a></p>	
 		</td>
 	</tr>
 	
