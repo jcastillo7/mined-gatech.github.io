@@ -28,9 +28,9 @@ search_omit: false
 		</td>
 		<td valign="top">
 			<a href="http://www.cse.gatech.edu/"><img src="/mined-gatech.github.io/images/collaborators/CSE-logo.PNG" style="height:75px"></a>
-			<p align="center"><a href="http://www.cse.gatech.edu/people/richard-fujimoto">Dr. Richard Fujimoto</a>
-			<p align="center"><a href="http://www.cse.gatech.edu/people/polo-chau">Dr. Polo Chau</a>
-			<p align="center"><a href="http://www.cse.gatech.edu/people/srinivas-aluru">Dr. Srinivas Aluru</a>
+			<p align="center"><a href="http://www.cse.gatech.edu/people/richard-fujimoto">Dr. Richard Fujimoto</a></p>	
+			<p align="center"><a href="http://www.cse.gatech.edu/people/polo-chau">Dr. Polo Chau</a></p>	
+			<p align="center"><a href="http://www.cse.gatech.edu/people/srinivas-aluru">Dr. Srinivas Aluru</a></p>	
 		</td>
 	</tr>
 	<tr>
