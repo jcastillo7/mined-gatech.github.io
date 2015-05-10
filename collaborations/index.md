@@ -49,9 +49,6 @@ search_omit: false
 <h1 align="center"><u>External</u></h1>
 
 
-MPIE
-Karlsruhe Institute of Technology
-
 NIST
 Lockheed Martin ATL
 
@@ -90,7 +87,7 @@ ENSAM
 	</tr>
 	<tr>
 		<td valign="top">
-			<p align="center"><a href="http://www.mpie.de/2281/en"><img src="/mined-gatech.github.io/images/collaborators/MPIE-logo.PNG" style="height:75px"></a></p>
+			<p align="center"><a href="http://www.mpie.de/2281/en"><img src="/mined-gatech.github.io/images/collaborators/MPIE-logo.png" style="height:75px"></a></p>
 			<p align="center"><a href="http://www.dierk-raabe.com/">Dr. Dierk Raabe</a></p>	
 			<p align="center"><a href="http://www.mpie.de/2973988/employee_page?c=3079071&employee_id=40045">Dr. Cem Tasan</a></p>	
 		</td>
