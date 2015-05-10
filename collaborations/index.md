@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collaborations
+title: Active Collaborations
 excerpt: "The MINED Group @ Georgia Tech"
 search_omit: false
 ---
