@@ -8,7 +8,9 @@ search_omit: false
 
 <h1 align="center"><u>Collaborations in Georgia Tech</u></h1>
 
-<table  style="border-collapse:separate;border-spacing: 25px">
+<table style="border-collapse:separate;border-spacing: 25px">
+    <col style="width:50%">
+    <col style="width:50%">
 	<tr>
 		<td valign="top">
 			<a href="http://materials.gatech.edu"><img src="/mined-gatech.github.io/images/collaborators/IMAT-logo.PNG" style="height:75px"></a>
