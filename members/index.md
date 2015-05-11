@@ -76,7 +76,7 @@ search_omit: false
 	{% endfor %}
 	</table>
 	
-	<h1> Undergraduate Students </h1>
+	<!-- <h1> Undergraduate Students </h1> -->
 	
 	<table>
 	{% for post in site.posts %} 
