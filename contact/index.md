@@ -5,8 +5,8 @@ title: Contact
 
 <p align="center">Individual contact information is available at the members page.</p>
 
-<h1 align="center">Bunger Henry Building - Grid:086</h1>
-<h2 align="center">Grid:086</h2>
+<h1 align="center">Bunger Henry Building</h1>
+<h3 align="center">#086</h3>
 
 <img src="/mined-gatech.github.io/images/gatechgrid86.png" align="center">
 
