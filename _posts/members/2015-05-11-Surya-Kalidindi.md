@@ -33,4 +33,4 @@ Dr. Kalidindi's research interests are broadly centered on designing material in
 * E-mail: surya.kalidindi@me.gatech.edu
 * T: 404.385.2886
 * http://mined.gatech.edu/
-* [Publications] https://scholar.google.com/citations?user=C2k6mYwAAAAJ&hl=en
+* <a href="https://scholar.google.com/citations?user=C2k6mYwAAAAJ&hl=en">Publications </a>
