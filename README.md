@@ -32,4 +32,4 @@ The **ONLY** place a regular user will need to interact with, is their bio file 
 
 ## Modifying Other Content
 
-Modifying most other content needs to happen after a discussion/verification at the mmg mailing list.
+Modifying most other content, please write a detailed commit description, and do not hesitate to ask for help.
