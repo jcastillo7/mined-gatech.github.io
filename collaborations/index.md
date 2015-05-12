@@ -40,7 +40,6 @@ search_omit: false
 			<p align="center"><a href="http://materials.gatech.edu"><img src="/images/collaborators/MSE-logo.PNG" style="height:75px"></a></p>
 			<p align="center"><a href="http://www.mse.gatech.edu/faculty/garmestani">Dr. Hamid Garmestani</a></p>
 			<p align="center"><a href="http://www.mse.gatech.edu/faculty/thadhani">Dr. Naresh Thadhani</a></p>
-			<p align="center"><a href="http://www.mse.gatech.edu/faculty/kumar">Dr. Satish Kumar</a></p>
 		</td>
 	</tr>
 </table>
