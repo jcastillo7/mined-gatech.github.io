@@ -5,7 +5,7 @@ categories: members
 tags: faculty # here write either ug,grad,post,faculty  ug is undergraduate, grad self explanatory, post is for post docs and visiting professors
 
 author:
-  name: Surya Kalidindi
+  name: Surya R. Kalidindi
   role: Professor 
   image: /images/avatars/Kalidindi.png
   url: http://www.me.gatech.edu/faculty/kalidindi # Optional
@@ -17,9 +17,7 @@ Dr. Kalidindi's research interests are broadly centered on designing material in
 
 **Research Interests**
 
-*Physics-Based Multi-scale Models, Crystal Plasticity, 
-
-Crystallographic Slip, Deformation Twinning, Texture Evolution, Finite Element Models, Computational Mechanics and Materials Science.
+*Physics-Based Multi-scale Models, Crystal Plasticity, Crystallographic Slip, Deformation Twinning, Texture Evolution, Finite Element Models, Computational Mechanics and Materials Science.
 
 *Microstructure Sensitive Design, n-point Statistics, Microstructure Hulls, Property Closures, Process Networks, Spectral Methods for Microstructure-Property-Processing Linkages.
 
@@ -35,3 +33,4 @@ Crystallographic Slip, Deformation Twinning, Texture Evolution, Finite Element M
 * E-mail: surya.kalidindi@me.gatech.edu
 * T: 404.385.2886
 * http://mined.gatech.edu/
+* [Publications] https://scholar.google.com/citations?user=C2k6mYwAAAAJ&hl=en
