@@ -21,7 +21,7 @@ David Montes de Oca Z. is currently pursuing a PhD in Mechanical Engineering at 
 * Materials Informatics
 * Big Data Analytics
 * Multiscale Simulations
-*Lead-free solders
+* Lead-free solders
 
 **Work Environment:** Mainly MATLAB
 
