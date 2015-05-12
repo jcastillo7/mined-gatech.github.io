@@ -19,5 +19,6 @@ Abdul is a postdoctoral fellow in the MINED research group at Georgia Tech. He r
 **Research Interests**
 
 * Materials Informatics
+* Big Data Analytics
 * Parallel Computing
 * Machine Learning
