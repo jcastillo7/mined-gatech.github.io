@@ -27,7 +27,7 @@ Dr. Kalidindi's research interests are broadly centered on designing material in
 
 *Microstructure-Property Relationships in Bone, Bone Quality, Raman Spectroscopy.
 
-**Publicatoins**
+**Publications**
 
 <a href="https://scholar.google.com/citations?user=C2k6mYwAAAAJ&hl=en">Publications </a>
 
