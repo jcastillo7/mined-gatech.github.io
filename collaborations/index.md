@@ -6,7 +6,7 @@ search_omit: false
 ---
 
 
-<h1 align="center"><u>Internal</u></h1>
+#<h1 align="center"><u>Internal</u></h1>
 
 <table style="border-collapse:separate;border-spacing: 25px">
     <col style="width:50%">
@@ -46,7 +46,7 @@ search_omit: false
 	</tr>
 </table>
 
-<h1 align="center"><u>External</u></h1>
+#<h1 align="center"><u>External</u></h1>
 
 <table style="border-collapse:separate;border-spacing: 25px">
     <col style="width:50%">
