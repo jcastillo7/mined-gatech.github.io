@@ -26,7 +26,7 @@ The **ONLY** place a regular user will need to interact with, is their bio file 
 
 <img src="/images/readme-5.png" align="center">
 
-### Click the "Commit Changes" button without writing anything anywhere else, you do not need to write anything in the entire bubble above the commit button, you want to.
+### Click the "Commit Changes" button without writing anything anywhere else, you do not need to write anything in the entire bubble above the commit button, unless you want to.
 
 <img src="/images/readme-6.png" align="center">
 
