@@ -14,10 +14,10 @@ author:
   url: http://ahafeez7.github.io/ # Optional
 ---
 
-I am working as a Postdoc Fellow with Dr. Surya Kalidindi in Woodruff School of Mechanical Engineering at Georgia Tech. I am part of MINED Research group and my research focus is Materials Informatics. Currently, I am the lead member of MATIN -- a collaborative platform for innovative materials community. The goal is to accelerate the materials research by fostering collaborations between scientists in different fields of science including material scientists, data scientists, chemical engineers and manufacturing experts. MATIN is an online collaborative platform for sharing data, code and online blogging on top of the shared data/code among scientists through a gamut of collaborative tools such as dropbox, fliker and instagram (data storage), linkedin+, google+ and twitter (for social networking), sharedLaTeX (collaborative editing).
+Abdul is a postdoctoral fellow in the MINED research group at Georgia Tech. He received his PhD from Virginia Tech. Currently, he is pursuing research in materials informatics and leading the efforts of matIN; a collaborative plaform for innovative materials research. 
 
 **Research Interests**
 
+* Materials Informatics
 * Parallel Computing
 * Machine Learning
-* Materials Informatics
