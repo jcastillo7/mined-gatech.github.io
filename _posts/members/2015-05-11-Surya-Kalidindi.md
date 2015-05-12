@@ -27,10 +27,12 @@ Dr. Kalidindi's research interests are broadly centered on designing material in
 
 *Microstructure-Property Relationships in Bone, Bone Quality, Raman Spectroscopy.
 
+**Publicatoins**
+* <a href="https://scholar.google.com/citations?user=C2k6mYwAAAAJ&hl=en">Publications </a>
+
 **Contact Info**
 
 * Bunger Henry, Room 192
 * E-mail: surya.kalidindi@me.gatech.edu
 * T: 404.385.2886
 * http://mined.gatech.edu/
-* <a href="https://scholar.google.com/citations?user=C2k6mYwAAAAJ&hl=en">Publications </a>
