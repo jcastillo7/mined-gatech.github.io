@@ -1,6 +1,9 @@
 ---
 layout: bio
 
+categories: members
+tags: grad
+
 author:
   name: Noah Paulson
   role: Modeling
