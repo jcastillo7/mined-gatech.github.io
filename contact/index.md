@@ -8,7 +8,7 @@ title: Contact
 <h1 align="center">Bunger Henry Building</h1>
 <h3 align="center">#086</h3>
 
-<img src="/mined-gatech.github.io/images/gatechgrid86.png" align="center">
+<img src="/images/gatechgrid86.png" align="center">
 
 <h1 align="center">Directions</h1>
 
