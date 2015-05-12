@@ -17,6 +17,7 @@ author:
 Akash Gupta is currently pursuing a PhD in Mechanical Engineering at Georgia Institute of Technology. He has 4 years industrial experience at TRDDC, Pune working as researcher on topics related to ICME specifically process modeling for downstream steel manufacturing processes. He earned a bachelor’s degree in Materials and Metallurgical Engineering from IIT Kanpur. His current research focus is on using data based approach for efficient crystal plasticity calculations for developing forming limit diagrams and models for forming operations. 
 
 **Research Interests**
+
 * Forming simulations
 * Crystal Plasticity
 * Spectral Crystal Plasticity (using DFT)
