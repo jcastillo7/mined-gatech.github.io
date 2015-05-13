@@ -5,7 +5,7 @@ categories: members
 tags: grad
 
 author:
-  name: Yuksel Yabansu
+  name: Yuksel C. Yabansu
   role: Materials Data Analyst / Material Informatics 
   image: /images/avatars/yuksel.png
   linkedin: yuksel-yabansu/79/a5/754
@@ -23,13 +23,14 @@ Yuksel Yabansu is a PhD candidate in George W. Woodruff School of Mechanical Eng
 
 **Research Skills**
 
-**Work Environment:** *MATLAB*, FORTRAN, Python
+**Work Environment:** *MATLAB*, FORTRAN, Python 
+
 **Areas of Experience:** *Microstructure Quantification and Representation*, *Machine Learning*, *Modeling and Simulation*, Plasticity Theory, Image Processing
 
 **Current Projects**
 
 * Data Analytics for Microstructures produced by Phase-Field models
-* Processing-Structure-Property Linkages for 2
+* Processing-Structure-Property Linkages for 2 phase heterogeneous materials
 * Localization Relationships for Elastic Deformation of Multiphase Polycrystalline Aggregates
 
 **Publications**
@@ -49,4 +50,3 @@ Yuksel Yabansu is a PhD candidate in George W. Woodruff School of Mechanical Eng
 
 * E-mail (1): yabansu@gatech.edu
 * E-mail (2): canyabansu@gmail.com
-* Cell: +12675216680
