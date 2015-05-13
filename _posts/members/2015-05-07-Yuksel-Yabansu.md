@@ -7,7 +7,7 @@ tags: grad
 author:
   name: Yuksel Yabansu
   role: Materials Data Analyst / Material Informatics 
-  image: images/avatars/yuksel.png
+  image: /images/avatars/yuksel.png
   linkedin: yuksel-yabansu/79/a5/754
 
 ---
