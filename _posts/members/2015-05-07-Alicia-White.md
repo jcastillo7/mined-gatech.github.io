@@ -7,9 +7,8 @@ tags: grad # here write either ug,grad,post,faculty  ug is undergraduate, grad s
 author:
   name: Alicia White
   role: Experiments
-  image: /images/avatars/no-female.png
+  image: /images/avatars/Alicia.png
 ---
-
 Alicia White is a PhD student in Material Science and Engineering at Georgia Institute of Technology.  She earned her Bachelor's Degree in Polymer and Fiber Engineering in 2012.  She is a trainee in the NSF IGERT program FLAMEL.
 
 
