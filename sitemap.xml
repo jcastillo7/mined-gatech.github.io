@@ -1,87 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+---
+layout: null
+sitemap:
+  lastmod: 2015-05-15
+  priority: 0.7
+  changefreq: 'weekly'
+  exclude: 'yes'
+---
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://mined.gatech.edu/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/404</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/calendar/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/feed.xml</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/404.html</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/collaborations/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/alumni/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/contact/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/Surya-Kalidindi/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/Zhen/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/Eva/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/abdul-hafeez/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/Dipen-Patel/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/Andrew-Medford/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/Akash-Gupta/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/noah-paulson/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/fred-hohman/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/David-MontesdeOca-Zapiain/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/Yuksel-Yabansu/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/Jordan-Weaver/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/Alicia-White/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/Ahmet-Cecen/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/news/We-Are-Live/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/news/Editing-Content/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/members/David-Brough/</loc>
-  </url>
-  <url>
-    <loc>http://mined.gatech.edu/news/nsf-goali/</loc>
-  </url>
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      {% if post.sitemap.lastmod %}
+        <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif post.date %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      {% if post.sitemap.changefreq %}
+        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+      {% else %}
+        <changefreq>monthly</changefreq>
+      {% endif %}
+      {% if post.sitemap.priority %}
+        <priority>{{ post.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.5</priority>
+      {% endif %}
+    </url>
+    {% endunless %}
+  {% endfor %}
+  {% for page in site.pages %}
+    {% unless page.sitemap.exclude == "yes" %}
+    <url>
+      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+      {% if page.sitemap.lastmod %}
+        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif page.date %}
+        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      {% if page.sitemap.changefreq %}
+        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+      {% else %}
+        <changefreq>monthly</changefreq>
+      {% endif %}
+      {% if page.sitemap.priority %}
+        <priority>{{ page.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.3</priority>
+      {% endif %}
+    </url>
+  {% endfor %}
 </urlset>
-<!--<guid value="47af2b29-8d3e-4496-b490-7ccfe88950a4" />-->
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
