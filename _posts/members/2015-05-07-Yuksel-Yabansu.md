@@ -23,7 +23,7 @@ Yuksel Yabansu is a PhD candidate in George W. Woodruff School of Mechanical Eng
 
 **Research Skills**
 
-**Work Environment:** *MATLAB*, FORTRAN, Python 
+**Work Environment:** *MATLAB*, *Abaqus*, FORTRAN, Python 
 
 **Areas of Experience:** *Microstructure Quantification and Representation*, *Machine Learning*, *Modeling and Simulation*, Plasticity Theory, Image Processing
 
