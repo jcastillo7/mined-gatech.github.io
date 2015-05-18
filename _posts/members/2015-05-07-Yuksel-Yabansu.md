@@ -35,7 +35,7 @@ Yuksel Yabansu is a PhD candidate in George W. Woodruff School of Mechanical Eng
 
 **Publications**
 
-* **Y.C. Yabansu**, S.R. Kalidindi, Representation and Calibration of Elastic Localization Kernels for a Broad Class of Cubic Polycrystals Acta Materialia, 2015, 94: p. 26-35
+* **Y.C. Yabansu**, S.R. Kalidindi, Representation and Calibration of Elastic Localization Kernels for a Broad Class of Cubic Polycrystals Acta Materialia, 2015. 94: p. 26-35
 * **Y.C. Yabansu**, D.K. Patel, S.R. Kalidindi. Calibrated localization relationships for elastic response of polycrystalline aggregates. Acta Materialia, 2014. 81: p. 151-160
 * S.R. Niezgoda, **Y.C. Yabansu**, S.R. Kalidindi, Understanding and Visualizing Microstructure and Microstructure Variance as a Stochastic Process. Acta Materialia, 2011. 59: p. 6387-6400.
 
