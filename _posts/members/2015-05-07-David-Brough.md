@@ -7,7 +7,7 @@ author:
   name: David Brough
   role: Data Scientist / Material Informatics
   image: /images/avatars/brough.jpeg
-  linkedin: https://www.linkedin.com/pub/david-brough/10/b01/243 # Optional
+  linkedin: david-brough/10/b01/243 # Optional
   github: davidbrough1 # Optional
   url: http://davidbrough.net # Optional
 ---
