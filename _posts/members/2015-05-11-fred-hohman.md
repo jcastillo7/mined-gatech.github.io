@@ -16,16 +16,16 @@ Fred is a first-year Ph.D. student studying Computational Science and Engineerin
 
 **Research Interests**  
 
-* Material Informatics
-* Big Data Analytics
+* Material Informatics  
+* Big Data Analytics  
 * Data Visualization
 
 **Current Projects**  
 
-* MATIN: An e-Collaboration Platform for Materials Research
+* MATIN: An e-Collaboration Platform for Materials Research  
 * Microstructure Informatics
 
 **Contact Info**  
 
-* Web: [fredhohman.com](http://fredhohman.com)
+* Web: [fredhohman.com](http://fredhohman.com)  
 * E-mail: fred.hohman@gmail.com
