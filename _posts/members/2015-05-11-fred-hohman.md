@@ -23,6 +23,6 @@ Fred is a first-year Ph.D. student studying Computational Science and Engineerin
 * MATIN: An e-Collaboration Platform for Materials Research
 * Microstructure Informatics
 
-**Contact Info**
+**Contact Info**  
 * Web: [fredhohman.com](http://fredhohman.com)
 * E-mail: fred.hohman@gmail.com
