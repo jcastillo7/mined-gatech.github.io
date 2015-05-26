@@ -14,14 +14,12 @@ author:
 ---
 Fred is a first-year Ph.D. student studying Computational Science and Engineering in the College of Computing at Georgia Institute of Technology. He received his undergraduate degrees in applied mathematics and physics at The University of Georgia where he explored 3D printing in topology by observing the physical geometry of knots that are particularly hard to visualize.
 
-**Research Interests**
-
+**Research Interests**  
 * Material Informatics
 * Big Data Analytics
 * Data Visualization
 
-**Current Projects**
-
+**Current Projects**  
 * MATIN: An e-Collaboration Platform for Materials Research
 * Microstructure Informatics
 
