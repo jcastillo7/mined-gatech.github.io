@@ -7,7 +7,7 @@ tags: grad
 author:
   name: Almambet Iskakov
   role: Experiments
-  image: almambet.png
+  image:  /images/avatars/almambet.png
   linkedin: almambet-iskakov/1b/4a7/8bb
   github: aiskakov
 ---
