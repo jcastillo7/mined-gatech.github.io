@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: bio
 
 categories: members
@@ -12,7 +12,7 @@ author:
   github: aiskakov
 ---
 
-Almambet is a graduate student in Mechanical Engineering at Georgia Institute of Technology. He earned his Bachelor’s Degree in Mechanical Engineering in 2010 from University of Maryland College Park. He joined the MINED group in 2015.
+Almambet is a graduate student in Mechanical Engineering at Georgia Institute of Technology. He earned his Bachelor's Degree in Mechanical Engineering in 2010 from University of Maryland College Park. He joined the MINED group in 2015.
 
 **Research Interests**
 
