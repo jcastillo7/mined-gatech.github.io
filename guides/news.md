@@ -31,4 +31,4 @@ In the Github text field that says "Name your file" type the following: `2015-07
 ##Commit Changes
 At the bottom of the page the "Commit changes" text fields should have auto-filled a title and description. Feel free to change those. Otherwise, click the "Commit changes" button.
 
-Now visit [mined.gatech.edu](https://github.com/mined-gatech/mined-gatech.github.io) to see your new news! You may need to refresh the page for it to appear.
+Now visit [mined.gatech.edu](https://www.mined.gatech.edu) to see your new news! You may need to refresh the page for it to appear.
