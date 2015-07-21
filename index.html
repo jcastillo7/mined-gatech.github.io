@@ -15,7 +15,7 @@ search_omit: true
 </ul>
 
 <ul class="post-list">
-  {% for post in site.tags.viewall %}
+  {% for post in site.viewall %}
 		{% if post.link %}	
 			<li><article><a href="{{ post.link }}"><b>{{ post.title }}</b>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 		{% endif %}
