@@ -14,4 +14,12 @@ search_omit: true
 	{% endfor %}
 </ul>
 
-<div style="font-family: sans-serif; font-weight: bold; font-color:#343434; padding-top: 10px; font-size: 18px;"><a href="http://mined.gatech.edu/news/">View all news</a></div>
+<ul class="post-list">
+  {% for post in site.tags.viewall %}
+		{% if post.link %}	
+			<li><article><a href="{{ post.link }}"><b>{{ post.title }}</b>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+		{% endif %}
+	{% endfor %}
+</ul>
+
+<div style="font-family: sans-serif; font-weight: bold; font-color:#343434; padding-top: 10px; font-size: 18px;"><a href="http://mined.gatech.edu/news/">View all news...</a></div>
