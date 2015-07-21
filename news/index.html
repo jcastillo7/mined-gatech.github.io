@@ -1,0 +1,15 @@
+---
+layout: page
+title: News
+search_omit: true
+---
+
+<ul class="post-list">
+  {% for post in site.categories.news %}
+		{% if post.link %}	
+			<li><article><a href="{{ post.link }}"><b>{{ post.title }}</b><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+		{% else %}
+			<li><article><a><b>{{ post.title }}</b><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+		{% endif %}
+	{% endfor %}
+</ul>
