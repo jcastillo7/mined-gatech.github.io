@@ -13,8 +13,8 @@
     padding: 4px 20px;
     background-color: $black;
     @include media($medium) {
-      width: auto;
-      @include rounded(0 0 10px 10px);
+      width: 100%;
+      @include rounded(0 0 0 0);
     }
     @include clearfix;
   }
