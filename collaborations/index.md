@@ -52,7 +52,7 @@ search_omit: false
 		<td valign="top">
 			<p align="center"><a href="http://www.cmu.edu/"><img src="/images/collaborators/CMU-logo.png" style="height:120px"></a></p>
 			<p align="center"><a href="http://www.materials.cmu.edu/degraef/">Dr. Marc DeGraef</a></p>
-			<p align="center"><a href="http://www.materials.cmu.edu/people/rollett.html">Dr. Antony Rollett</a></p>
+			<p align="center"><a href="http://www.cmu.edu/engineering/materials/people/faculty/bios/rollett.html">Dr. Anthony Rollett</a></p>
 		</td>
 		<td valign="top">
 			<p align="center"><a href="http://www.northwestern.edu/"><img src="/images/collaborators/NWU-logo.PNG" style="height:120px"></a></p>
@@ -76,7 +76,7 @@ search_omit: false
 		<td valign="top">
 			<p align="center"><a href="http://www.mpie.de/2281/en"><img src="/images/collaborators/MPIE-logo.png" style="height:75px"></a></p>
 			<p align="center"><a href="http://www.dierk-raabe.com/">Dr. Dierk Raabe</a></p>	
-			<p align="center"><a href="http://www.mpie.de/2973988/employee_page?c=3079071&employee_id=40045">Dr. Cem Tasan</a></p>	
+			<p align="center"><a href="http://www.mpie.de/2973988/employee_page?c=2768971&employee_id=43181">Dr. Cem Tasan</a></p>	
 		</td>
 		<td valign="top">
 			<p align="center"><a href="http://www.kit.edu/english/"><img src="/images/collaborators/kit-logo.png" style="height:75px"></a></p>
