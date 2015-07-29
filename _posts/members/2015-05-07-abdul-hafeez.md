@@ -14,11 +14,10 @@ author:
   url: http://ahafeez7.github.io/ # Optional
 ---
 
-Abdul is a postdoctoral fellow in the MINED research group at Georgia Tech. He received his PhD from Virginia Tech. Currently, he is pursuing research in materials informatics and leading the efforts of matIN; a collaborative plaform for innovative materials research. 
+Abdul is a postdoctoral fellow in the MINED research group at Georgia Tech. Currently, he is pursuing research in materials informatics and leading the efforts of matIN; a collaborative plaform for innovative materials research. Further, Abdul is interested in cross-disciplinary collaborations in the data science and parallel computing. 
 
 **Research Interests**
 
 * Materials Informatics
 * Big Data Analytics
 * Parallel Computing
-* Machine Learning
