@@ -28,4 +28,4 @@ Fred is a first-year Ph.D. student studying [Computational Science and Engineeri
 **Contact Info**  
 
 * Web: [fredhohman.com](http://fredhohman.com)  
-* E-mail: fred.hohman@gmail.com
+* E-mail: fredhohman@gatech.edu
