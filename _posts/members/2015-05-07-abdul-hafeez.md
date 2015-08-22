@@ -21,3 +21,7 @@ Abdul is a postdoctoral fellow in the MINED research group at Georgia Tech. Curr
 * Materials Informatics
 * Big Data Analytics
 * Parallel Computing
+
+**Contact Info**
+
+ahafeez@gatech.edu
